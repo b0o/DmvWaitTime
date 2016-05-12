@@ -1,0 +1,9 @@
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\bin\Debug\DmvWaitTime.Service.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\bin\Debug\DmvWaitTime.Service.pdb
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\bin\Debug\DmvWaitTime.DataObject.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\bin\Debug\SimpleInjector.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\bin\Debug\DmvWaitTime.DataObject.pdb
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\bin\Debug\SimpleInjector.xml
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\obj\Debug\DmvWaitTime.Service.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\obj\Debug\DmvWaitTime.Service.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Service\obj\Debug\DmvWaitTime.Service.pdb

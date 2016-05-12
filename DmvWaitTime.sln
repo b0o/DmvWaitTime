@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmvWaitTime", "DmvWaitTime\DmvWaitTime.csproj", "{C99443BE-4695-4218-BADD-1E082B365431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmvWaitTime.DAL", "DmvWaitTime.DAL\DmvWaitTime.DAL.csproj", "{C9713AAD-94C9-47F7-A631-1BE24A0E9C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmvWaitTime.DataObject", "DmvWaitTime.DataObject\DmvWaitTime.DataObject.csproj", "{AE8CEAC1-EBDC-46E5-A667-1EFCDD159FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmvWaitTime.Provider", "DmvWaitTime.Provider\DmvWaitTime.Provider.csproj", "{F08B3EE1-3F96-4E2D-BADD-A9836689170D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmvWaitTime.Logging", "DmvWaitTime.Logging\DmvWaitTime.Logging.csproj", "{B07FCB67-B95F-4209-90B5-6DF96ADF7C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmvWaitTime.Service", "DmvWaitTime.Service\DmvWaitTime.Service.csproj", "{0E0C492D-2563-4648-B88D-31982F1E1C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99443BE-4695-4218-BADD-1E082B365431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99443BE-4695-4218-BADD-1E082B365431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99443BE-4695-4218-BADD-1E082B365431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99443BE-4695-4218-BADD-1E082B365431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9713AAD-94C9-47F7-A631-1BE24A0E9C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9713AAD-94C9-47F7-A631-1BE24A0E9C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9713AAD-94C9-47F7-A631-1BE24A0E9C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9713AAD-94C9-47F7-A631-1BE24A0E9C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8CEAC1-EBDC-46E5-A667-1EFCDD159FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8CEAC1-EBDC-46E5-A667-1EFCDD159FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8CEAC1-EBDC-46E5-A667-1EFCDD159FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8CEAC1-EBDC-46E5-A667-1EFCDD159FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08B3EE1-3F96-4E2D-BADD-A9836689170D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08B3EE1-3F96-4E2D-BADD-A9836689170D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08B3EE1-3F96-4E2D-BADD-A9836689170D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08B3EE1-3F96-4E2D-BADD-A9836689170D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07FCB67-B95F-4209-90B5-6DF96ADF7C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07FCB67-B95F-4209-90B5-6DF96ADF7C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07FCB67-B95F-4209-90B5-6DF96ADF7C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07FCB67-B95F-4209-90B5-6DF96ADF7C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0C492D-2563-4648-B88D-31982F1E1C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0C492D-2563-4648-B88D-31982F1E1C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0C492D-2563-4648-B88D-31982F1E1C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0C492D-2563-4648-B88D-31982F1E1C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
