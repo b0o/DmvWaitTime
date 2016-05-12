@@ -1,0 +1,6 @@
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Logging\bin\Debug\DmvWaitTime.Logging.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Logging\bin\Debug\DmvWaitTime.Logging.pdb
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Logging\bin\Debug\SimpleInjector.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Logging\bin\Debug\SimpleInjector.xml
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Logging\obj\Debug\DmvWaitTime.Logging.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.Logging\obj\Debug\DmvWaitTime.Logging.pdb

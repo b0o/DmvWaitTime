@@ -1,0 +1,11 @@
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\bin\Debug\DmvWaitTime.DAL.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\bin\Debug\DmvWaitTime.DAL.pdb
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\bin\Debug\DmvWaitTime.DataObject.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\bin\Debug\SimpleInjector.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\bin\Debug\DmvWaitTime.DataObject.pdb
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\bin\Debug\SimpleInjector.xml
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\obj\Debug\DmvWaitTime.DAL.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\obj\Debug\DmvWaitTime.DAL.dll
+D:\Dropbox\Projects\DmvWaitTime\DmvWaitTime.DAL\obj\Debug\DmvWaitTime.DAL.pdb
